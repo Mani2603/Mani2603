@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Mani 
 
-💎 **Ruby on Rails Developer** | ⚡ **Backend Engineer**
+
+💎 **Full-Stack ** | ⚡ **Ruby on Rails Developer**
 
 - 🛠️ Build scalable web apps & RESTful APIs with **Rails**  
+- 🎨 Frontend with **HTML, CSS, JavaScript, Basic React**  
 - 🗄️ Skilled in **PostgreSQL, Redis, Sidekiq**  
-- 🔍 Passionate about **clean code, performance & testing **  
+- 🔍 Passionate about **clean code, performance & testing**
