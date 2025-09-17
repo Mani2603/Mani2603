@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mani 
 
 
-💎 **Full-Stack ** | ⚡ **Ruby on Rails Developer**
+💎 **Full-Stack** | ⚡ **Ruby on Rails Developer**
 
 - 🛠️ Build scalable web apps & RESTful APIs with **Rails**  
 - 🎨 Frontend with **HTML, CSS, JavaScript, Basic React**  
