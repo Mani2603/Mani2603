@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Mani 
 
 💎 **Ruby on Rails Developer** | ⚡ **Backend Engineer**
 
